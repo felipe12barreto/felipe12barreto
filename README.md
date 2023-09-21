@@ -11,6 +11,7 @@
 ### Eu já trabalhei como analista de implantação em softwares do google
 
 
+
 **Tecnologias e Ferramentas**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,11 +25,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Cursos realizados 🤓
-bacharel em Ciencias da Computação
+Bacharel em Ciencias da Computação
 Pós graduação em em PNL
 
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.linkedin.com/in/felipe12barreto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/felipe-dinardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
