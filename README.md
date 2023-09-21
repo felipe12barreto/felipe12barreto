@@ -25,8 +25,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Cursos realizados 🤓
-Bacharel em Ciencias da Computação
-Pós graduação em em PNL
+Bacharel em Ciencias da Computação | Pós graduação em em PNL
 
 
 ### Entre em contato comigo! 📭
