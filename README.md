@@ -8,7 +8,8 @@
 
 👩‍💻 Atualmente eu trabalho como Agente de Desenvolvimento na Prefeitura de Tamandaré
 
-### Eu já trabalhei como analista de implantação em softwares do google  🔧
+### Eu já trabalhei como analista de implantação em softwares do google
+
 
 **Tecnologias e Ferramentas**
 
